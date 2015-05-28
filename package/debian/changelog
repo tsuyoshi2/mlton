@@ -1,3 +1,12 @@
+mlton (20150528-1) unstable; urgency=low
+
+  * Checkout from from upstream git
+  * Replace htmldoc with asciidoc
+  * Update paths based on GNU architecture
+  * Remove bytecode codegen
+
+ -- Christopher Cramer <tsuyoshi@yumegakanau.org>  Thu, 28 May 2015 15:39:41 -0400
+
 mlton (20100608-5) unstable; urgency=low
 
   * Newest gcc and binutils fix mips[el] jump problem
