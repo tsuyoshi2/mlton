@@ -1,9 +1,10 @@
-mlton (20150528-1) unstable; urgency=low
+mlton (20150529-1) unstable; urgency=low
 
   * Checkout from from upstream git
   * Replace htmldoc with asciidoc
   * Update paths based on GNU architecture
   * Remove bytecode codegen
+  * Suggest llvm
 
  -- Christopher Cramer <tsuyoshi@yumegakanau.org>  Thu, 28 May 2015 15:39:41 -0400
 
